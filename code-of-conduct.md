@@ -1,12 +1,12 @@
-The North Eastern Community intiative and its members, contributors, sponsors, and leaders pledge to make participation in our community a positive, inclusive, and safe experience for all. 
-We encourages contributions from everyone who shares our goals and wants to participate in a healthy, constructive, and professional manner.
+The North-East India Community intiative and its members, contributors, sponsors, and leaders pledge to make participation in our community a positive, inclusive, and safe experience for all. 
+We encourage contributions from everyone who share our goals and want to participate in a healthy, constructive, and professional manner.
 
 This code of conduct aims to support a community where all people should feel safe to participate, to introduce new ideas, and to inspire others. 
 This includes everyone, regardless of: ability, age, background, body size or type, caste, disability (either visible or invisible), education, ethnicity, family status, gender, gender identity and expression, geographic location, level of experience, marital status, nationality or national origin, native language, personal appearance, race, religion, sexual identity and orientation, socio-economic status, or any other dimension of diversity.
 
 Openness and respectful collaboration are core values at our community. We are committed to being a community that everyone feels good about joining, and we will always work to treat everyone well. No matter how you identify yourself or how others perceive you, you are welcome. We gain strength from diversity and actively seek participation from those who enhance it.
 
-These guidelines exist to enable all North Eastern community members to collaborate effectively. As such, this document outlines both expected behavior and behavior that will not be tolerated.
+These guidelines exist to enable all North-East India community members to collaborate effectively. As such, this document outlines both expected behavior and behavior that will not be tolerated.
 
 ## Expected behavior
 We expect our members, contributors, and leaders to:
@@ -34,7 +34,7 @@ The following behaviors are unacceptable within our community, whether they occu
 - Excessive or unnecessary profanity.
 - Sustained disruption of community events, including meetings and presentations.
 - Recording or photography at community meetings and events without explicit permission.
-- Advocating for, or encouraging, any of the above behavior.</li>
+- Advocating for, or encouraging, any of the above behavior.
 
 Other conduct which could reasonably be considered inappropriate in a professional setting.
 
@@ -63,9 +63,9 @@ These guidelines apply to all members of the North East Community Intiative and 
 
 - Representing the community at public events and in social media.
 - Participating in the community meetings and events, whether virtual or in person.
-- Participating in the community’s related messaging forums, including our Discord workspace and mailing list, and other North-East Community Project-related correspondence.
-- Interpersonal communications between North-East community members, whether virtual or in person.
-While this code of conduct applies specifically to the North East Community Initiative’s work and community, it is possible for actions taken outside of the community’s online or in-person spaces to have a deep impact on community health if it concerns the community or its members in some way. The code of conduct moderators reserve the right to consider communications or actions that occur outside of official North East Community Initiative spaces if they have a demonstrated impact on one or more community members.
+- Participating in the community’s related messaging forums, including our Discord workspace and mailing list, and other North-East India Community Project-related correspondence.
+- Interpersonal communications between North-East India community members, whether virtual or in person.
+While this code of conduct applies specifically to the North-East India Community Initiative’s work and community, it is possible for actions taken outside of the community’s online or in-person spaces to have a deep impact on community health if it concerns the community or its members in some way. The code of conduct moderators reserve the right to consider communications or actions that occur outside of official North-East India Community Initiative spaces if they have a demonstrated impact on one or more community members.
 
 ## Resources 
 In creating this code of conduct, the authors adapted or were inspired by the following resources, listed alphabetically:
