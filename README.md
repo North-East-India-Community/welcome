@@ -51,5 +51,4 @@ Feel free to reach out to any of us for further help if required:
 
 # 🔖 Code of Conduct
 
-TBD
-
+Read our [Code of conduct](code-of-conduct.md) carefully for reference. 
