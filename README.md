@@ -1,2 +1,53 @@
-# welcome
-Join the North-East India Community Initiative!
+![neindia-ci](https://user-images.githubusercontent.com/41017419/149617184-97b8e7b2-8dc6-4cbf-a448-d3fa9f0f15b3.png)
+
+# 💖 Welcome
+
+Join the North-East India Community Initiative! 🇮🇳
+
+North East regions of India have always been at edge of receiving the last bite of everything, sadly. Like everything else, it also includes opportunities around tech. But over time we have seen so many people from the North East regions, changing the entire geography for themselves. And we need more of them. 
+
+We are therefore, looking for some, ground-breakers. People who understand the value they'll be bringing, the efforts they'll be putting in, and the foundation they'll be setting up.
+
+So, if you are someone who is ready to take the plunge and become a part of the impactful history, join us now. Let's build communities together, changing this scenario forever.
+
+# 📝 Who can apply 
+
+The eligibility criterias are -
+
+1. You must be 18+ years of age.
+2. Currently residing in any of the North-East Indian states (Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)
+3. You are an aspiring/existing community leader.
+
+# 🤔 How to join this intiative
+
+Get prepared and fill out this form : [bit.ly/neindia-ci](https://bit.ly/neindia-ci). Give it a shot for yourself.
+
+## Points to keep in mind while filling the form.
+- Be who you are.
+- Tell us your story.
+- Do not copy answers from internet.
+- Give detailed responses.
+
+# 📆 Timeline 
+
+| To-Do  | Date | Time |
+| ------------- | ------------- | ------------- |
+| Application opens | 15/01/2022 | 20:00 |
+| Application closes | 22/01/2022 | 23:59 |
+| Acceptance Mail | 24/01/2022 | TBD |
+| Onboarding | 29/01/2022 | TBD |
+
+- There will be one meet-up on last Saturday of every month. The first meet-up will be onboarding.
+- We will share updates on whenever next time the applications gets open.
+
+# ✅ Need help
+
+In case of any query or support, feel free to reach out to any of us below: 
+- [Arkodyuti Saha](https://twitter.com/arkodyutisaha) (GitHub)
+- [Siddharth Dayalwal](https://twitter.com/siddharth_hacks) (Storyblok)
+- [Ankita Tripathi](https://twitter.com/ankitatr_) (Google)
+
+# 🔖 Code of Conduct
+
+TBD
+
