@@ -4,7 +4,7 @@
 
 Join the North-East India Community Initiative! 🇮🇳
 
-North East regions of India have always been at edge of receiving the last bite of everything, sadly. Like everything else, it also includes opportunities around tech. But over time we have seen so many people from the North East regions, changing the entire geography for themselves. And we need more of them. 
+North East region of India have always been at edge of receiving the last bite of everything, sadly. Like everything else, it also includes opportunities around tech. But over time we have seen so many people from the North East region, changing the entire geography for themselves. And we need more of them. 
 
 We are therefore, looking for some, ground-breakers. People who understand the value they'll be bringing, the efforts they'll be putting in, and the foundation they'll be setting up.
 
