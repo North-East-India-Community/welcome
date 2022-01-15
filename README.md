@@ -51,4 +51,4 @@ Feel free to reach out to any of us for further help if required:
 
 # 🔖 Code of Conduct
 
-Read our [Code of conduct](code-of-conduct.md) carefully for reference. 
+Read our [Code of Conduct](code-of-conduct.md) carefully for reference. 
