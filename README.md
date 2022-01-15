@@ -18,15 +18,12 @@ The eligibility criterias are -
 2. Currently residing in any of the North-East Indian states (Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)
 3. You are an aspiring/existing community leader.
 
-# 🤔 How to join this intiative
+# 🎯 Goals
 
-Get prepared and fill out this form : [bit.ly/neindia-ci](https://bit.ly/neindia-ci). Give it a shot for yourself.
-
-## Points to keep in mind while filling the form.
-- Be who you are.
-- Tell us your story.
-- Do not copy answers from internet.
-- Give detailed responses.
+- Create communities & community leaders.
+- Coach community members with resources/opportunities.
+- Grow & expand self-sustainable communities, by covering the regional gaps.
+- Promote a diverse representation and an inclusive culture.
 
 # 📆 Timeline 
 
@@ -39,6 +36,16 @@ Get prepared and fill out this form : [bit.ly/neindia-ci](https://bit.ly/neindia
 
 - There will be one meet-up on last Saturday of every month. The first meet-up will be onboarding.
 - We will share updates on whenever next time the applications gets open.
+
+# 🤔 How to join this intiative
+
+Get prepared and fill out this form : [bit.ly/neindia-ci](https://bit.ly/neindia-ci). Give it a shot for yourself.
+
+## Points to keep in mind while filling the form.
+- Be who you are.
+- Tell us your story.
+- Do not copy answers from internet.
+- Give detailed responses.
 
 # ✅ Need help
 
