@@ -42,7 +42,9 @@ Get prepared and fill out this form : [bit.ly/neindia-ci](https://bit.ly/neindia
 
 # ✅ Need help
 
-In case of any query or support, feel free to reach out to any of us below: 
+In case of any query or support, open a [new discussion](https://github.com/North-East-India-Community/welcome/discussions) keeping in mind the categories.
+
+Feel free to reach out to any of us for further help if required:
 - [Arkodyuti Saha](https://twitter.com/arkodyutisaha) (GitHub)
 - [Siddharth Dayalwal](https://twitter.com/siddharth_hacks) (Storyblok)
 - [Ankita Tripathi](https://twitter.com/ankitatr_) (Google)
