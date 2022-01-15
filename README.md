@@ -44,7 +44,7 @@ Get prepared and fill out this form : [bit.ly/neindia-ci](https://bit.ly/neindia
 
 In case of any query or support, open a [new discussion](https://github.com/North-East-India-Community/welcome/discussions) keeping in mind the categories.
 
-Feel free to reach out to any of us for further help if required:
+Feel free to reach out to any of us for further help, if required:
 - [Arkodyuti Saha](https://twitter.com/arkodyutisaha) (GitHub)
 - [Siddharth Dayalwal](https://twitter.com/siddharth_hacks) (Storyblok)
 - [Ankita Tripathi](https://twitter.com/ankitatr_) (Google)
