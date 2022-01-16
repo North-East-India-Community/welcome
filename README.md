@@ -1,4 +1,5 @@
-![neindia-ci](https://user-images.githubusercontent.com/41017419/149617184-97b8e7b2-8dc6-4cbf-a448-d3fa9f0f15b3.png)
+![neindia-ci](https://user-images.githubusercontent.com/41017419/149660348-97960e10-eceb-49c4-af5d-05ef4054f152.png)
+
 
 # 💖 Welcome
 
@@ -15,7 +16,7 @@ So, if you are someone who is ready to take the plunge and become a part of the 
 The eligibility criterias are -
 
 1. You must be 18+ years of age.
-2. Currently residing in any of the North-East Indian states (Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)
+2. Currently residing in any of the North-East Indian states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, West Bengal)
 3. You are an aspiring/existing community leader.
 
 # 🎯 Goals
