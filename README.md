@@ -15,7 +15,7 @@ So, if you are someone who is ready to take the plunge and become a part of the 
 
 The eligibility criterias are -
 
-1. You must be 18+ years of age.
+1. You must be 16+ years of age.
 2. Currently residing in any of the North-East Indian states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, West Bengal)
 3. You are an aspiring/existing community leader.
 
